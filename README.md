@@ -7,3 +7,5 @@ Repository used to test things and stuff...
 s
 72
 s
+
+aeiou
